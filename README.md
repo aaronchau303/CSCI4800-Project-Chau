@@ -16,6 +16,10 @@ My goal is to build a RAG chain for Google Cloud’s documentation website using
 * Question classification nodes
 * LLMs with high level instructions for conversation after feeding knowledge base
 
+## Links
+* https://cloud.dify.ai/app/7a83d6ab-2d8b-43e1-88fb-b51ecc7cba0d/workflow
+* https://udify.app/chat/GNkCmseKWSIstiQw
+
 
 
 
